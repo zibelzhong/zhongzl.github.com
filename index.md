@@ -11,9 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 基本信息
+## 姓名：仲昭林
+## 学校：本科  安徽工业大学；研究生  青岛大学
+### 
 
 - Bulleted
 - List
