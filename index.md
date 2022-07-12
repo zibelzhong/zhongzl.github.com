@@ -23,7 +23,7 @@ Syntax highlighted code block
       <p><b>研究方向：自动化集装箱码头优化调度</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/Picture.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
